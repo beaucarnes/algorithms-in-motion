@@ -1,0 +1,21 @@
+DO IT! CHALLENGE - 2.2 Selection Sort
+
+Create a selection sort algorithm that sorts an array in place without creating another array. The function
+should sort the 'people' array from 'contactapp.py'. The algorithm should sort by 'name' or 'age', depending
+on what is passed in. To check, run 'contactapp.py' and verify that when you print contacts, the program
+accurately sorts the list based on the given parameter.
+
+CHANGE THIS FILE
+/2.2/selectionsort.py
+
+RUN THIS FILE TO TEST
+/2.2/contactapp.py
+
+SOLUTION FILES
+/2.2/Solution/*
+(Don't open until you have tried the challenge yourself!)
+
+OTHER EXAMPLE FILES
+/2.1/LinkedList/*
+(Note: These files are not used for the DO IT! CHALLENGE. The purpose is to demonstrate a selection sort
+with a linked list. In the challenge, you will be implementing selection sort with an array.)

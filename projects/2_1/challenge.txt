@@ -1,0 +1,19 @@
+DO IT! CHALLENGE - 2.1 Linked List
+
+Finish the add, remove, and search functions of a linked list data structure so it will work correctly.
+To check your work, run 'contactapp.py' and test if all the functions listed in the menu run properly.
+
+CHANGE THIS FILE
+/2.1/linkedlist.py
+
+RUN THIS FILE TO TEST
+/2.1/contactapp.py
+
+SOLUTION FILES
+/2.1/Solution/*
+(Don't open until you have tried the challenge yourself!)
+
+OTHER EXAMPLE FILES
+/2.1/Array/*
+(Note: These files are not used for the DO IT! CHALLENGE. The purpose is to demonstrate how the contact
+management program could work with an array instead of a linked list.

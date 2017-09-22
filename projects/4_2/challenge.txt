@@ -1,0 +1,19 @@
+DO IT! CHALLENGE - 4.2 Quicksort
+
+Now it's time to improve the sort algorithm! Implement the sort function below using quicksort. The
+function should sort the people array from 'contactapp.py'. The algorithm should sort by 'name' or 'age',
+depending on what is passed in. To check, run 'contactapp.py' and verify that when you print contacts,
+the program accurately sorts the list based on the given parameter.
+
+Note: To more closely align with the code shown in the video, this quicksort function should return
+a new sorted list instead of modifying the list passed in (like the previous challenges).
+
+CHANGE THIS FILE
+/4.2/quicksort.py
+
+RUN THIS FILE TO TEST
+/4.2/contactapp.py
+
+SOLUTION FILES
+/4.2/Solution/*
+(Don't open until you have tried the challenge yourself!)
